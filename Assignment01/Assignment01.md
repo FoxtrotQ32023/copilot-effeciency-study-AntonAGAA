@@ -33,3 +33,5 @@ Your output should always contain two digits after the decimal point.
 3.20 -15.00
 52.31 4.76
 ```
+
+# I've read the requirements:
